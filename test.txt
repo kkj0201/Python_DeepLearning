@@ -1,3 +1,20 @@
-git clone 복사URL
-git commit -am 3
-git config --global user.name kkj0201
+
+#깃허브 내려받기
+명령어 : git clone 복사URL
+
+#깃허브 설정
+명령어 : git config --global user.name "kkj0201"
+명령어 : git config --global user.email "kkj0201"
+
+#깃허브 head에 저장
+명령어 : git commit -am 3
+
+#깃허브로 추가
+명령어 : git add test.txt
+
+#깃허브로 보내기
+명령어 : git push  
+
+#깃허브에서 가져오기 
+아이디 비번물어보지않으면 공개저장소임
+명령어 : git pull
